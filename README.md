@@ -1,6 +1,7 @@
 # Hola :wave: Soy **Mateo Suarez** y este es mi GitHub :computer:!!
 Hi! My name is Mateo <br>This is my profile where you will find projects I made throughout these years.<br><br>⌨️ I'm currently working on my personal projects.<br>📘 Educational content is included for all people.<br>⏱ Time and efficiency is key.<br>🔮 A bright future is always my objective.<br>🎮 Gaming and 3D modelling are some of my passions.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msuarez_1905) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mateo-nicolas-suarez-a7b68b264) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Matusua1905) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateosuarez1905@hotmail.com) 
@@ -11,10 +12,3 @@ Hi! My name is Mateo <br>This is my profile where you will find projects I made 
 ![](https://github-readme-stats.vercel.app/api?username=UnMatesito&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false)<br/>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UnMatesito&theme=rose_pine&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnMatesito&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UnMatesito&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
