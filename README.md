@@ -1,4 +1,9 @@
 # Hola :wave: Soy **Mateo Suarez** y este es mi GitHub :computer:!!
+
+<p align="center">
+  <img src="https://tenor.com/rpfdgC2vy5j.gif"/>  
+</p>
+
 Hi! My name is Mateo <br>This is my profile where you will find projects I made throughout these years.<br><br>⌨️ I'm currently working on my personal projects.<br>📘 Educational content is included for all people.<br>⏱ Time and efficiency is key.<br>🔮 A bright future is always my objective.<br>🎮 Gaming and 3D modelling are some of my passions.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
