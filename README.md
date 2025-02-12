@@ -1,8 +1,6 @@
 # Hola :wave: Soy **Mateo Suarez** y este es mi GitHub :computer:!!
 
-<p align="center">
-  <img src="https://tenor.com/view/cars-kachow-badbitch-gif-23750214" alt="cars"/>  
-</p>
+<div class="tenor-gif-embed" data-postid="23750214" data-share-method="host" data-aspect-ratio="2.44275" data-width="100%"><a href="https://tenor.com/view/cars-kachow-badbitch-gif-23750214">Cars Kachow GIF</a>from <a href="https://tenor.com/search/cars-gifs">Cars GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Hi! My name is Mateo <br>This is my profile where you will find projects I made throughout these years.<br><br>⌨️ I'm currently working on my personal projects.<br>📘 Educational content is included for all people.<br>⏱ Time and efficiency is key.<br>🔮 A bright future is always my objective.<br>🎮 Gaming and 3D modelling are some of my passions.
 
