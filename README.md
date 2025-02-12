@@ -1,7 +1,7 @@
 # Hola :wave: Soy **Mateo Suarez** y este es mi GitHub :computer:!!
 
 <p align="center">
-  <img src="https://tenor.com/view/toyota-yaris-yaris-meme-whys-this-dealer-meme-whys-this-dealer-i-need-my-things-gif-14472248150583635823"/>  
+  <img src="https://tenor.com/view/cars-kachow-badbitch-gif-23750214" alt="cars"/>  
 </p>
 
 Hi! My name is Mateo <br>This is my profile where you will find projects I made throughout these years.<br><br>⌨️ I'm currently working on my personal projects.<br>📘 Educational content is included for all people.<br>⏱ Time and efficiency is key.<br>🔮 A bright future is always my objective.<br>🎮 Gaming and 3D modelling are some of my passions.
