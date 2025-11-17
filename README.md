@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://i.gifer.com/7cnP.gif"  />
+  <img height="1000" src="https://i.gifer.com/7cnP.gif"  />
 </div>
 
 ###
@@ -87,13 +87,23 @@
   <a href="https://www.linkedin.com/in/msuarez1905/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <a href="https://www.instagram.com/msuarez_1905/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />  
+  </a>
+  <a href="https://discord.gg/daudDAh2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:mateousarez1905@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
+  <a href="https://www.reddit.com/u/Matusua1905/s/KUI6i0Hjpr" target="_blank">
+    <img src="https://www.svgrepo.com/show/475675/reddit-color.svg" width="52" height="40" alt="reddit logo" />
+  </a>
+  <a href="">
+    
+  </a>
 </div>
+
+# [My Portfolio](https://unmatesito.github.io/my-portfolio/)
 
 ###
