@@ -1,9 +1,9 @@
-<h1 align="right">Hola! My name is Mateo and welcome to my GitHub 👋</h1>
+<h1 align="center">Hola! My name is Mateo and welcome to my GitHub 👋</h1>
 
 ###
 
 <div align="center">
-  <img height="350" src="https://i.gifer.com/7cnP.gif"  />
+  <img height="500" src="https://i.gifer.com/7cnP.gif"  />
 </div>
 
 ###
