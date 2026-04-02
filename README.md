@@ -68,17 +68,6 @@
 
 ###
 
-<h2 align="left">📊 Stats:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnMatesito&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UnMatesito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">🌐 Socials:</h2>
 
 ###
@@ -94,7 +83,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:mateousarez1905@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/Microslop-outlook/default.svg" width="52" height="40" alt="Microslop-outlook logo"  />
   </a>
   <a href="https://www.reddit.com/u/Matusua1905/s/KUI6i0Hjpr" target="_blank">
     <img src="https://www.svgrepo.com/show/475675/reddit-color.svg" width="52" height="40" alt="reddit logo" />
