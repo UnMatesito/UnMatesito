@@ -82,8 +82,8 @@
   <a href="https://discord.gg/daudDAh2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto:mateousarez1905@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/Microslop-outlook/default.svg" width="52" height="40" alt="Microslop-outlook logo"  />
+  <a href="mailto:mateonicolassuarez19@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="52" height="40" alt="Gmail logo" />
   </a>
   <a href="https://www.reddit.com/u/Matusua1905/s/KUI6i0Hjpr" target="_blank">
     <img src="https://www.svgrepo.com/show/475675/reddit-color.svg" width="52" height="40" alt="reddit logo" />
